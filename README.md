@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👋+你好！我是刘凡;🤖+物流机器人工程师;⚙️+专注智能物流系统;💰+用技术改变物流行业!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👋+你好！我是FN;🤖+物流机器人工程师;⚙️+专注智能物流系统;💰+用技术改变物流行业!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 专注物流机器人与智能仓储系统的工程师 🚀</h3>

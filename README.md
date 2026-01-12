@@ -1,145 +1,145 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=刘凡&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=180&section=header&text=刘凡&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Logistics%20Robotics%20Engineer&descSize=18&descAlignY=55" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/LiuFan-libiao">
+    <img src="https://img.shields.io/badge/GitHub-LiuFan--libiao-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:2839988676@qq.com">
+    <img src="https://img.shields.io/badge/Email-2839988676%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LiuFan-libiao&color=36BCF7&style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-%E7%89%A9%E6%B5%81%E6%9C%BA%E5%99%A8%E4%BA%BA-4CAF50?style=flat-square" />
+</p>
+
+## 👋 About Me
+
+```yaml
+name: 刘凡
+role: Logistics Robotics Engineer
+organization: Intelligent Warehouse & AGV Systems
+education: Automation / Robotics related background
+email: 2839988676@qq.com
+
+specializations:
+  - Logistics robots & AGV navigation
+  - Intelligent warehouse & sorting systems
+  - Real-time control & system integration
+  - C# .NET & WPF application development
+
+current_focus:
+  - Building next-generation intelligent logistics solutions
+  - Optimizing AGV cluster dispatching and path planning
+  - Integrating WMS with automation equipment
+  - Improving efficiency of warehousing and sorting systems
+
+philosophy: "用技术革新传统物流，让每一次搬运都更智能高效"
+```
+
+## 🐳 Domain & Projects
+
+<p align="center"><i>专注物流机器人与智能仓储系统，同时参与自动化与面试知识开源项目</i></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👋+你好！我是FN;🤖+物流机器人工程师;⚙️+专注智能物流系统;💰+用技术改变物流行业!" alt="Typing SVG" />
+
+<!-- 领域类项目标签（示例） -->
+[![智能仓储系统](https://img.shields.io/badge/Domain-%E6%99%BA%E8%83%BD%E4%BB%93%E5%82%A8%E7%B3%BB%E7%BB%9F-0e75b6?style=flat-square)](#)
+[![AGV机器人集群](https://img.shields.io/badge/Domain-AGV%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E7%BE%A4-36BCF7?style=flat-square)](#)
+[![智能分拣系统](https://img.shields.io/badge/Domain-%E6%99%BA%E8%83%BD%E5%88%86%E6%8B%A3%E7%B3%BB%E7%BB%9F-ff6b6b?style=flat-square)](#)
+
+<!-- 你的开源项目 -->
+[![daily-interview](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/daily-interview&style=horizontal)](https://github.com/datawhalechina/daily-interview)
+[![self-n8n](https://svg.bookmark.style/api?url=https://github.com/Bald0Wang/self-n8n&style=horizontal)](https://github.com/Bald0Wang/self-n8n)
+
 </div>
 
-<h3 align="center">🚀 专注物流机器人与智能仓储系统的工程师 🚀</h3>
+| Project                          | Description                                              | Role        |
+| :------------------------------- | :------------------------------------------------------- | :---------- |
+| **智能仓储系统**                 | 全自动化仓库管理平台，打通入库到出库全流程               | Developer   |
+| **AGV机器人集群**               | 多AGV协同作业系统，实现高效安全调度                     | Developer   |
+| **智能分拣系统**                 | 高速自动分拣方案，适配多种业务场景                      | Developer   |
+| **daily-interview**             | Datawhale 出品的日常技术面试题库，涵盖多领域基础与实战 | Contributor |
+| **self-n8n**                    | 基于 n8n 的自动化工作流实践，用可视化方式编排自动化任务 | Contributor |
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LiuFan-libiao&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/LiuFan-libiao?label=Followers&style=social" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/专业-物流机器人-brightgreen?style=flat" alt="Specialization" />
-</div>
+## 🛠️ Tech Stack
 
-## 🎯 关于我
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<table>
-<tr><td>
+**Languages & Frameworks**
 
-**🎓 专业领域:** 物流机器人系统开发  
-**💼 核心技术:** C# .NET开发、机器人控制系统  
-**🔬 研究方向:** 智能仓储、AGV导航、自动分拣系统  
-**🛠️ 核心技能:** 机器人算法、实时控制、系统集成  
-**📍 当前专注:** 构建下一代智能物流解决方案  
-**🎯 目标:** 用技术革新传统物流行业 📦  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-</td></tr>
+</td>
+<td align="center" width="50%">
+
+**Robotics & Systems**
+
+![AGV](https://img.shields.io/badge/AGV_Control-0e75b6?style=flat-square)
+![Real-time Control](https://img.shields.io/badge/Real--time_Control-FF9800?style=flat-square)
+![PLC](https://img.shields.io/badge/PLC_Integration-607D8B?style=flat-square)
+![ROS](https://img.shields.io/badge/ROS-Navigation-22314E?style=flat-square&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-Navigation-009688?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Logistics & Warehouse**
+
+![WMS](https://img.shields.io/badge/WMS_System-3F51B5?style=flat-square)
+![Sorting](https://img.shields.io/badge/Sorting_System-795548?style=flat-square)
+![Vision](https://img.shields.io/badge/Visual_Inspection-9C27B0?style=flat-square)
+
+</td>
+<td align="center">
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6F61?style=flat-square)
+
+</td>
+</tr>
 </table>
 
-## 🛠️ 技术栈
+## 📈 GitHub Stats
 
 <div align="center">
-
-### 🔧 核心编程语言
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-</div>
-
-## 🚀 项目经验
-
-<div align="center">
-
-### 🏭 智能仓储系统
-**全自动化仓库管理平台**
-- 🎯 **技术栈:** C# + WPF + SQL Server + AGV控制
-- 📈 **成果:** 提升仓储效率300%，降低人工成本60%
-- 🔧 **核心功能:** 自动入库、智能分拣、路径优化
-
-### 🤖 AGV机器人集群
-**多机器人协同作业系统**
-- 🎯 **技术栈:** C# + ROS + SLAM导航
-- 📈 **成果:** 支持50台AGV同时作业，零碰撞记录
-- 🔧 **核心功能:** 路径规划、任务调度、实时监控
-
-### 📦 智能分拣系统
-**高速自动分拣解决方案**
-- 🎯 **技术栈:** C# + PLC + 视觉识别
-- 📈 **成果:** 分拣速度达到10000件/小时
-- 🔧 **核心功能:** 条码识别、重量检测、自动分流
-
-</div>
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiuFan-libiao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuFan-libiao&layout=compact&langs_count=8&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LiuFan-libiao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=0e75b6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuFan-libiao&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiuFan-libiao&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LiuFan-libiao&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7" height="160"/>
 </div>
 
-## 🏆 技术成就
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiuFan-libiao&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LiuFan-libiao&theme=discord&no-frame=true&column=7&margin-w=10" />
 </div>
 
-
-## 💡 行业洞察
-
-> 🤖 **"机器人不是替代人工，而是解放人类去做更有价值的工作"**
-> 
-> 📦 **"智能物流的核心是让每个包裹都走最优路径"**
-> 
-> ⚡ **"效率提升的背后，是无数次算法优化的积累"**
-> 
-> 🔮 **"未来的仓库将是完全无人化的智能工厂"**
-
-## 🌟 行业认知
+## 📊 Activity
 
 <div align="center">
-
-| 🎯 专业领域 | 📝 技术重点 | 🚀 发展趋势 |
-|-------------|-------------|-------------|
-| **AGV机器人** | 导航算法、路径优化 | 5G+AI赋能、群体智能 |
-| **智能仓储** | WMS系统、自动化设备 | 数字孪生、预测性维护 |
-| **分拣系统** | 视觉识别、高速控制 | 深度学习、柔性分拣 |
-| **系统集成** | 通信协议、数据同步 | 云原生、边缘计算 |
-
-</div>
-
-## 📫 联系我
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LiuFan-libiao-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuFan-libiao)
-[![邮箱](https://img.shields.io/badge/邮箱-2839988676@qq.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2839988676@qq.com)
-
-
-</div>
-
-## 🔥 近期活动
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=708090&line=ff1744&point=ff6b6b&area=true&hide_border=true)](https://github.com/LiuFan-libiao)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiuFan-libiao&bg_color=0d1117&color=36BCF7&line=0e75b6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=80&section=footer" />
 </div>
 
-<div align="center">
-  
-**感谢访问我的GitHub主页！期待与您在物流机器人领域展开合作 🤝**
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60"> <em><b>技术改变物流，</b>让我们一起构建智能化的未来！🚀</em>
-
-</div>
-
-<!---
-LiuFan-libiao/LiuFan-libiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+<p align="center">
+  <b>感谢访问我的 GitHub 主页！期待在物流机器人、智能仓储与自动化领域与你交流与合作 🤝</b>
+</p>
+```
